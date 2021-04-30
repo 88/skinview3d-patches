@@ -1,2 +1,3 @@
-# skinview3d-patches
-skinview3d patches for mcuserna.me
+# skinview3d patches
+
+Used for mcuserna.me. If you use this, please credit!
